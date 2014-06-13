@@ -10,6 +10,10 @@ div {
 }
 ```
 
+```css
+/* NG */
+.disabled { ... }
+```
 
 <dl>
 <dt>SCSS</dt>
